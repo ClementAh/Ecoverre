@@ -12,7 +12,7 @@
         "build": "encore production --progress"
     },
     "dependencies": {
-        "jquery": "^3.3.1",
+        "jquery": "^3.5.0",
         "leaflet": "^1.4.0",
         "mapbox": "^1.0.0-beta10"
     }
